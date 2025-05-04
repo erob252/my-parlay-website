@@ -1,0 +1,8 @@
+<div style="margin: 20px;">
+  <button id="autoModeBtn" style="padding: 10px; margin-right: 10px;">Auto-Generate Parlays</button>
+  <button id="manualModeBtn" style="padding: 10px;">Manual Mode</button>
+</div>
+
+<div id="parlayOutput" style="margin-top: 20px;">
+  <h3>Loading Player Props...</h3>
+</div>
